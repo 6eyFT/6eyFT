@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @6eyFT
+- 👋 Hi, my name is Six
 - 👀 I’m interested in Web3 development and smart contracts on the Tezos blockchain.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on SmartPy

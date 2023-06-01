@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Six
-- 👀 I’m interested in Web3 development and smart contracts on the Tezos blockchain.
+- 👀 I’m interested in Web3 development, smart contracts, and AI development.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me - 6eyFT.tez@gmail.com
 
